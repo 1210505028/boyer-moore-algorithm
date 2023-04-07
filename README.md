@@ -12,6 +12,6 @@ En iyi, en kötü ve ortalama çalışma sınırları, desen ve metin uzunluğun
 
 **Ortalama durumda**, Boyer-Moore algoritmasının zaman karmaşıklığı O(n+m) olarak tahmin edilir. Ancak, desendeki benzersiz karakterlerin sayısı ve desenin uzunluğu gibi faktörlere bağlı olarak değişebilir.
 
-Matematiksel ve asimptotik analizler yaparak, en iyi durumda n/m, en kötü durumda nm ve ortalama durumda n+m karmaşıklığına sahip olan Boyer-Moore algoritmasının çalışma sınırları belirlenebilir.
+Matematiksel ve asimptotik analizler yaparak, en iyi durumda n/m, en kötü durumda nm ve ortalama durumda n+m karmaşıklığına sahip olan Boyer-Moore algoritmasının çalışma sınırları belirlenebilir. <br/><br/>
 <img src="https://github.com/1210505028/boyer-moore-algorithm/blob/main/boyer-moore.png" width="auto">
 
