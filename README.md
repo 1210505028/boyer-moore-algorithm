@@ -16,7 +16,7 @@ Matematiksel ve asimptotik analizler yaparak, en iyi durumda n/m, en kötü duru
 
 <img src="https://github.com/1210505028/boyer-moore-algorithm/blob/main/boyer-moore.png" width="auto"> <br/><br/>
 
-<img src="https://github.com/1210505028/boyer-moore-algorithm/blob/main/boyer-moore2.jpg" width="auto">
+<img src="https://github.com/1210505028/boyer-moore-algorithm/blob/main/boyer-moore3.jpg" width="auto">
 
 ## Yönerge
 "boyer_moore.java" dosyasındaki kodda, bir dosya yolunu değişken olarak tanımladım. Bu dosya yolunu, kendi bilgisayarınızda "alice_in_wonderland.txt" dosyasının yolunu kopyalayıp yapıştırmalısınız. Ardından programı çalıştırabilirsiniz. Program, "Alice In Wonderland " metninde istenen kelimelerin kaç kez geçtiğini hesaplar ve çıktı olarak ekrana yazdırır.
