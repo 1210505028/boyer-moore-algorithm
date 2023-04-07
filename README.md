@@ -19,5 +19,8 @@ Matematiksel ve asimptotik analizler yaparak, en iyi durumda n/m, en kötü duru
 <img src="https://github.com/1210505028/boyer-moore-algorithm/blob/main/boyer-moore3.jpg" width="auto">
 
 ## Yönerge
+Bir arama algoritması olan Boyer-Moore Algoritması ile metnin içinde ki **upon,sigh,Dormouse,jury-box,swim** kelimelerinin kaç defa geçtiğini hesaplattık.
 "boyer_moore.java" dosyasındaki kodda, bir dosya yolunu değişken olarak tanımladım. Bu dosya yolunu, kendi bilgisayarınızda "alice_in_wonderland.txt" dosyasının yolunu kopyalayıp yapıştırmalısınız. Ardından programı çalıştırabilirsiniz. Program, "Alice In Wonderland " metninde istenen kelimelerin kaç kez geçtiğini hesaplar ve çıktı olarak ekrana yazdırır.
+
+
 
