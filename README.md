@@ -1,5 +1,5 @@
 # boyer-moore-algorithm
-
+## Nedir Ve Niçin Kullanılır?
 Boyer-Moore algoritması, bir metin içinde belirli bir deseni arama algoritmasıdır. Bu algoritma, 1977'de Robert S. Boyer ve J Strother Moore tarafından geliştirilmiştir. Boyer-Moore algoritması, diğer arama algoritmalarından farklı olarak, desenin sağdan sola doğru tarama yaparak karşılaştırma yapmasını sağlar. Bu, metindeki harf sayısını azaltarak, arama süresini kısaltır. Ayrıca, Boyer-Moore algoritması, aranan desende tekrar eden karakterler olduğunda, bu tekrar eden karakterleri baz alarak aramayı hızlandırır. Bu algoritma, özellikle büyük metin dosyalarında veya internet tarayıcılarında kullanılan bir arama algoritmasıdır. Ancak, belirli durumlarda diğer algoritmalardan daha yavaş çalışabilir. 
 
 Boyer-Moore algoritması, önceden işlem yapılan iki tabloya dayanır: önek tablosu (bad character table) ve sonek tablosu (good suffix table). Bu tablolar, desenin farklı parçalarının metindeki eşleşme durumlarını önceden hesaplar. Algoritma, desenin son karakteriyle metindeki karakterleri karşılaştırarak ilerler ve uyumsuzluk durumunda tablolardan elde ettiği bilgileri kullanarak ileri atlayarak tekrar arama yapar. 
